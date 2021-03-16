@@ -9767,6 +9767,12 @@
     githubId = 16151097;
     name = "Valentin Gehrke";
   };
+  tuxinaut = {
+    email = "trash4you@tuxinaut.de";
+    github = "tuxinaut";
+    githubId = 722482;
+    name = "Denny Schäfer";
+  };
   tv = {
     email = "tv@krebsco.de";
     github = "4z3";
